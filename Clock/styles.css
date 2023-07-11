@@ -1,0 +1,25 @@
+*{
+    background-color: blueviolet;
+}
+h1{
+    font-size: 35px;
+    text-align: center;
+    letter-spacing: 30px;
+    margin-top: 80px;
+}
+
+#clock {
+    font-size: 48px;
+    text-align: center;
+    margin-top: 200px;
+    color: white;
+    background-color: rgb(86, 92, 172);
+    width: fit-content;
+    padding: 50px 80px;
+    font-weight: 800;
+    position: relative;
+    right: -480px;
+    top: -100px;
+
+  }
+  
